@@ -1,0 +1,80 @@
+Cosas que no se sobre el documento de Lenguaje informático moderno: (Glosario)
+
+Los laboratorios Bell: Nokia Bell Labs es una compañía estadounidense de investigación y desarrollo científico, actualmente propiedad de la empresa finlandesa Nokia. Su sede se encuentra en Murray Hill, Nueva Jersey, además de tener laboratorios en otros lugares de los Estados Unidos y en otros países.
+
+Lenguaje de programación C: Un programa en C es un conjunto de funciones, definiciones de tipos de datos y declaraciones de variables contenidos en un conjunto de ficheros. Un programa en C siempre comienza a ejecutar por la función con nombre main .
+
+Bjarne Stroustrup: Bjarne Stroustrup, es un científico de la computación y catedrático de Ciencias de la Computación en la Universidad A&M de Texas.
+
+Lenguaje de programación C++:  Es un lenguaje de programación diseñado en 1979 por Bjarne Stroustrup. La intención de su creación fue extender al lenguaje de programación C mecanismos que permiten la manipulación de objetos.
+
+
+Haskell:  es un lenguaje de programación estandarizado multi-propósito, funcionalmente puro, con evaluación no estricta y memorizada, y fuerte tipificación estática.
+
+
+Lenguaje de programación C#: Es un lenguaje de programación multiparadigma desarrollado y estandarizado por la empresa Microsoft como parte de su plataforma .NET, que después fue aprobado como un estándar por la ECMA e ISO.
+
+
+Lisp: Es una familia de lenguajes de programación de computadora de tipo multiparadigma con larga historia y una inconfundible y útil sintaxis homoicónica basada en la notación polaca.
+
+
+La International Business Machines Corporation: empresa estadounidense fundada en los años 20, está desarrollando una nueva tecnología que utiliza la física de partículas descubierta hace casi un siglo. La espintrónica moderna se derivó del trabajo de los físicos alemanes a finales de los años veinte.
+
+Física de partículas: La física de partículas es la rama de la física que estudia los componentes elementales de la materia y las interacciones entre ellos
+
+
+Friedrich Hermann Hund:  Fue un físico conocido por su trabajo en la estructura de átomos y moléculas.
+
+
+Bosón de Higgs: Es una partícula fundamental propuesta en el modelo estándar de física de partículas.
+
+
+Q#: La verdad no se, no encontré información sobre este
+
+
+Paradigma:  es entendido como el conjunto de conceptos, valores, técnicas y procedimientos compartidos por una comunidad científica, en un momento histórico determinado, para definir problemas y buscar soluciones
+
+
+Haiku: Es un breve poema de origen japonés que se inspira en la naturaleza, especialmente en el cambio de las estaciones.
+
+
+pentámetro yámbico: Es un tipo de verso de cinco pies de yambo, cada uno de los cuales suele estar compuesto de dos sílabas, una no acentuada y otra acentuada, y una sílaba opcional no acentuada al final.
+
+
+F#: es un lenguaje de programación multiparadigma de código abierto,  para la plataforma .NET, que conjunta la programación funcional con las disciplinas imperativa y orientada a objetos. Es una variante del lenguaje de programación ML y es compatible con la implementación Objective Caml.
+
+
+Lenguaje multiparadigma: Un Lenguaje de Programación Multiparadigma es el cual soporta más de un Paradigma de Programación.
+
+ 
+pseudo-3D: 
+
+
+
+
+
+
+
+
+Modding: es el arte o técnica de modificar estética o funcionalmente partes de un ordenador, ya sea la caja, ratón, teclado o monitor, pero también otros dispositivos relacionados como pueden ser las consolas.
+
+
+3dfx: Interactive fue una compañía especializada en la manufactura de procesadores gráficos 3D y, más tarde, tarjetas gráficas para uso en PC.
+
+
+Nvidia: Es una empresa multinacional especializada en el desarrollo de unidades de procesamiento gráfico y tecnologías de circuitos integrados para estaciones de trabajo, ordenadores personales y dispositivos móviles.
+
+
+Matrox: Es una empresa canadiense que produce chips gráficos y componentes para PC.
+
+
+ATI: Fue una de las empresas de hardware que diseñaba GPUs, fue comprada por AMD en el año 2006 pero mantuvo su nombre para algunos productos hasta la salida de la serie Radeon HD 6000 en el 2010.
+
+
+Lenguaje de programación BOO: es un lenguaje de programación orientado a objetos, de tipos estáticos para la Common Language Infrastructure con una sintaxis inspirada en Python y un énfasis en la extensibilidad del lenguaje y su compilador.
+
+
+Lenguaje de programación javascript: es un lenguaje de programación interpretado, dialecto del estándar ECMAScript. Se define como orientado a objetos,  basado en prototipos, imperativo, débilmente tipado y dinámico.
+
+
+OSX: Es una serie de sistemas operativos gráficos desarrollados y comercializados por Apple desde 2001. Es el sistema operativo principal para la familia de computadoras Mac de Apple.
